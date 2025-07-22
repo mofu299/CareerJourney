@@ -1,0 +1,2 @@
+# CareerJourney
+キャリアジャーニーで作った自己分析のWEBです
